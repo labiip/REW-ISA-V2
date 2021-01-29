@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1611911364766.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1547596647",
+    "id" : "7A3D5A73",
+    "lastKnownWriteTime" : 1611911810,
+    "last_content_update" : 1611911810150,
+    "path" : "E:/Rstudio_test/Other information utilization/REWISAV2/R/REWISAV2.R",
+    "project_path" : "R/REWISAV2.R",
+    "properties" : {
+        "cursorPosition" : "0,6",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

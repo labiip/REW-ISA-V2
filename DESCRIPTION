@@ -1,0 +1,16 @@
+Package: REWISAV2
+Type: Package
+Title: REW-ISA V2: a biclustering method fusing homologous information for analyzing and mining epi-transcriptome data
+Version: 1.0.1
+Author: Who wrote it
+Maintainer: Shutao Chen <shutao.chen@cumt.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Dependes:
+    stats, 
+    stringr, 
+    clusterProfiler, 
+    org.Hs.eg.db
